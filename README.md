@@ -1,4 +1,4 @@
-# Discord.js v14 Slashlı McStatus Botu
+# Discord.js v14 Slashlı Kod Paylaşım Botu
 
 # Kurulum
 1. Config Dosyasını Düzenleyin:
